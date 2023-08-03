@@ -1,3 +1,7 @@
+ini LINKNYA https://github.com/4rif24/UASbarang
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
